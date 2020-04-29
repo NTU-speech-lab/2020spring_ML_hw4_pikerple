@@ -1,0 +1,11 @@
+id,label
+0,today is a good day , but it is hot
+1,today is hot , but it is a good day
+2,today is hot, but it is a good day.
+3,today is good, and it is a good day.
+4,suck
+5,bad
+6,Mandy
+7,NTU
+8,hot
+
