@@ -189,7 +189,7 @@ class Preprocess():
 # 好讓 dataloader 能使用
 import torch
 from torch.utils import data
-from torchsummary import summary
+# from torchsummary import summary
 class TwitterDataset(data.Dataset):
     """
     Expected data shape like:(data_num, data_len)
